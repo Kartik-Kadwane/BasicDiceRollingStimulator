@@ -42,4 +42,6 @@ while x == "y":
         print("| O    O  |")
         print("----------")
     x = input("Press y to roll again")
+
+just a simple dice stimulator
     
