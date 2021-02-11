@@ -2,3 +2,10 @@ hello , this is normal file in these folder.
 
 so is no any important value for this this is just for practising the git working.
 
+so nothing new in it.
+
+and keep trying the new things and learn fast.
+iii
+
+Now this is the change, making in the newBranch Branch.
+all these changes reflects in the newBranch and differ from the master branch
