@@ -49,5 +49,8 @@ HEAD
 changes made by checkBranch2.
 
 changes by checkkkkkk.
+-
 master hu me master 
 checkBranch smjha.
+-
+This is sample for the second conflict i am trying.????
