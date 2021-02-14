@@ -57,4 +57,11 @@ changes by checkkkkkk.
 master hu me master 
 checkBranch smjha.
 -
+
 This is sample for the second conflict i am trying.????
+
+
+now 10 26 but aisehi changes kr k dekh.
+ye hamara lptp hai , ye hum hai aur yhn meri git party chal ri hai.
+badiyaaa.
+
