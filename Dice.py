@@ -44,5 +44,6 @@ while x == "y":
     x = input("Press y to roll again")
     
 
-hello abc anc
+hello abc anc.
+BASIC DICE ROLLING IS SIMPLE PROJECT.JUST ONE MODULE IMPORT AND DONE.
 changes made by checkBranch2.
